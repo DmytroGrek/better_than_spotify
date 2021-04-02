@@ -1,0 +1,44 @@
+[
+    {
+        "name": [
+            "Aerosmith"
+        ],
+        "year of creation": [
+            "1970"
+        ],
+        "participants": [
+            "Steven Tyler",
+            "Joe Perry",
+            "Joey Kramer",
+            "Tom Hamilton",
+            "Brad Whitford"
+        ],
+        "albums": [
+            "Get Your Wings",
+            "Toys in the Attic",
+            "Rocks",
+            "Draw the Line",
+            "Night in the Ruts",
+            "Just Push Play"
+        ]
+    },
+    {
+        "name": [
+            "ACDC"
+        ],
+        "year of creation": [
+            "1968"
+        ],
+        "participants": [
+            "Joe Perry",
+            "Joey Kramer",
+            "Tom Hamilton"
+        ],
+        "albums": [
+            "Toys in the Attic",
+            "Rocks",
+            "Draw the Line",
+            "Night in the Ruts"
+        ]
+    }
+]
